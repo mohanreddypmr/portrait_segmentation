@@ -13,9 +13,11 @@ Here we limit ourselves to binary classes (person or background) and use only pl
 
 
 
-dataset---https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets
+# dataset_link
+https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets
 
 
 
-Linkedin_post-link--Deployment video- https://www.linkedin.com/posts/mohan-reddy-pallavula-440a26151_portraitabrsegmentation-segnet-aisegment-activity-6705821514987655168-Fl3G
+# Linkedin_post-link--Deployment video
+https://www.linkedin.com/posts/mohan-reddy-pallavula-440a26151_portraitabrsegmentation-segnet-aisegment-activity-6705821514987655168-Fl3G
 
